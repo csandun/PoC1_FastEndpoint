@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FastEndpoints/FastEndpoints/main/logo.svg" height="150px" alt="FastEndpoints Logo">
+  <img src="https://avatars.githubusercontent.com/u/110555157?s=200&v=4" height="150px" alt="FastEndpoints Logo">
 </p>
 
 ## PoC1_FastEndpoint
